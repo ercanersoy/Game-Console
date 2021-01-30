@@ -1,0 +1,14 @@
+(module POWER (layer F.Cu) (tedit 0)
+  (fp_text reference U$7 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
+  )
+  (fp_line (start -0.86 0) (end 0.2 0) (layer F.SilkS) (width 0.127))
+  (fp_arc (start 0.96 0) (end 1.65 0.23) (angle 323.130102) (layer F.SilkS) (width 0.127))
+  (fp_line (start 2.42 0) (end 0.845 0) (layer F.SilkS) (width 0.127))
+  (fp_line (start 3.09 -0.335) (end 3.09 0.335) (layer F.SilkS) (width 0.127))
+  (fp_line (start 2.755 0) (end 3.425 0) (layer F.SilkS) (width 0.127))
+  (fp_circle (center 0.945 0) (end 1.045 0) (layer F.SilkS) (width 0.2))
+)
