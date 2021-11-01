@@ -2,7 +2,7 @@
 
 A Uzebox based game console
 
-Copyright (C) 2020-2021 Ercan Ersoy
+Some changes applied by Ercan Ersoy.
 
 This project licensed under GNU GPL v3.
 
