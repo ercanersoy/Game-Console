@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name CGTR_Game_Console)(type Legacy)(uri "$(KIPRJMOD)/game_console.lib")(options "")(descr ""))
-  (lib (name CGTR-Game-Console-rescue)(type Legacy)(uri "$(KIPRJMOD)/game-console-rescue.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "Game-Console")(type "KiCad")(uri "${KIPRJMOD}/game-console.kicad_sym")(options "")(descr ""))
 )
