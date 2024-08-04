@@ -14,4 +14,4 @@ Formats of the hardware files are KiCAD formats.
 
 ## Reference
 
-[Uzebox](http://uzebox.org/wiki/Main_Page)
+[Uzebox](https://uzebox.org/)
